@@ -78,6 +78,9 @@
             "grandperspective"
             "postman"
             "orbstack"
+            "miniconda"
+            "pkg-config"
+            "raylib"
           ];
 
           masApps = {
