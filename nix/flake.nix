@@ -49,6 +49,8 @@
             "git"
             "fzf"
             "yt-dlp"
+            "pkg-config"
+            "raylib"
           ];
           casks = [
             "iina"
@@ -79,8 +81,6 @@
             "postman"
             "orbstack"
             "miniconda"
-            "pkg-config"
-            "raylib"
           ];
 
           masApps = {
